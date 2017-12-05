@@ -1,5 +1,7 @@
 
-![Code School](https://codeschool.lappis.rocks/static/img/logo.svg)
+
+<p align="center"><img width="300"src="https://codeschool.lappis.rocks/static/img/logo.svg"></p>
+
 
 # MES - CodeSchool
 
