@@ -1,13 +1,8 @@
-# Code School
 
-This repos is where the MES team will document how we are organizing ourselves.
-Once the project Code School(CS) is under development by the LAPPIS organization
-it didn't look good for us to put our internal organization into the main repo.
+![Code School](https://codeschool.lappis.rocks/static/img/logo.svg)
 
-It this repo we going to add:
+# MES - CodeSchool
 
-- Product and Team backlog
-- Issue tracking
-- Zenhub documentation(boards)
+<p align="justify">&emsp;&emsp; Repositório contendo a documentação gerada durante a disciplina de MES (Manutenção e Evolução de <i>Software</i>), ministrada no curso de Engenharia de <i>Software</i> da Universidade de Brasília. Segundo semestre de 2017.</p>
 
-For sanity will also are going to put what we current working on in the LAPPIS repos/Main repo.
+## <p align="right"><a href="https://github.com/MES-codeSSchool/MES-Documentation/wiki">Acesse os documentos.</a></p>
